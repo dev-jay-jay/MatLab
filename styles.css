@@ -1,0 +1,21 @@
+img {
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    border-bottom: 1px solid blue;
+}
+h2 {
+
+    color: red;
+    text-align: left;
+}
+body{
+    background-color: beige;
+    padding: 200px;
+    max-width: 1000px;
+}
+p{
+    font-weight: bold;
+}
